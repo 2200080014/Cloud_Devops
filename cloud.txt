@@ -1,0 +1,6 @@
+Amazon Webservice
+Azure
+Google Cloud Platform
+Platform as a service
+Infrastructure as a Service
+Ec2 Instance
